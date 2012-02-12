@@ -41,3 +41,13 @@ p.bio {
 h1.post-title {
     margin-bottom:5px;
 }
+
+pre code {
+    background:none;
+}
+pre {
+    overflow-x:scroll
+}
+body.gists h1 {
+    margin-bottom:10px;
+}
