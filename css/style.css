@@ -51,3 +51,7 @@ pre {
 body.gists h1 {
     margin-bottom:10px;
 }
+
+article.post {
+    margin-top:5px;
+}
